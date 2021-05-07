@@ -7,7 +7,7 @@ Jangan Lupa Kunjungi www.readyssh.net
 ```
 
 ### Screenshot:
-![ngentod]()
+![ngentod](https://github.com/Kgyya/createovpn/blob/main/ss_ovpn_2.jpg)
 ![yametteh]()
 ### Instalation (Termos):
 ```
