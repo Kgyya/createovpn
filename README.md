@@ -8,7 +8,7 @@ Jangan Lupa Kunjungi www.readyssh.net
 
 ### Screenshot:
 ![ngentod](https://github.com/Kgyya/createovpn/blob/main/ss_ovpn_2.jpg)
-![yametteh]()
+![yametteh](https://github.com/Kgyya/createovpn/blob/main/ss_ovpn.jpg)
 ### Instalation (Termos):
 ```
 pkg update && pkg upgrade
